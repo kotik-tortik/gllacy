@@ -1,3 +1,3 @@
 # gllacy
 Учебный макет htmlacademy
-html, css
+(html, css)
